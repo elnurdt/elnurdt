@@ -1,5 +1,10 @@
 ## Привет, меня зовут Елнұр 👋
 
+<p align="center">
+    [![Telegram](https://img.shields.io/badge/Telegram-%40el6449-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/el6449)
+    [![WhatsApp](https://img.shields.io/badge/WhatsApp-77477862824-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77477862824)
+</p>
+
 * Занимаюсь аналитикой данных 📈
 * Готов к сотрудничеству 🤝
 * Мои проекты 👇:
